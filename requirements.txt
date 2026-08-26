@@ -1,6 +1,0 @@
-aiogram==3.15.0
-Telethon==1.40.0
-SQLAlchemy[asyncio]==2.0.36
-asyncpg==0.30.0
-aiosqlite==0.20.0
-greenlet>=3.1.1,<4
