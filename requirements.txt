@@ -1,0 +1,6 @@
+aiogram==3.15.0
+telethon==1.40.0
+SQLAlchemy==2.0.36
+aiosqlite==0.20.0
+python-dotenv==1.0.1
+asyncpg==0.30.0
